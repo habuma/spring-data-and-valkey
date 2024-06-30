@@ -1,4 +1,4 @@
-# Spring Data Redis and Valkey
+# Spring Data and Valkey
 
 This project is a simple example of how to use Spring Data Redis with 
 [Valkey](https://valkey.io/). It should come as no surprise that Spring
